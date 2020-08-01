@@ -102,3 +102,12 @@ dist
 
 # TernJS port file
 .tern-port
+
+
+# Jovo gitignore
+dist/
+node_modules/
+db/
+bundle/
+bundle.zip
+.env
